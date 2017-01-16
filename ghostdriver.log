@@ -1,0 +1,57 @@
+[INFO  - 2017-01-10T23:43:24.646Z] GhostDriver - Main - running on port 41089
+[INFO  - 2017-01-10T23:43:25.466Z] Session [944ad980-d78e-11e6-a68f-6f02672563f2] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-01-10T23:43:25.467Z] Session [944ad980-d78e-11e6-a68f-6f02672563f2] - page.customHeaders:  - {}
+[INFO  - 2017-01-10T23:43:25.467Z] Session [944ad980-d78e-11e6-a68f-6f02672563f2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-01-10T23:43:25.467Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 944ad980-d78e-11e6-a68f-6f02672563f2
+[ERROR - 2017-01-10T23:43:26.237Z] Session [944ad980-d78e-11e6-a68f-6f02672563f2] - page.onError - msg: Error: Remote server error - /stats/commonallplayers - Server response: 0
+http://stats.nba.com/scripts/custom.min.js:7:9427
+http://stats.nba.com/scripts/vendor.min.js:7:22707
+n@http://stats.nba.com/scripts/vendor.min.js:8:4042
+n@http://stats.nba.com/scripts/vendor.min.js:8:4042
+n@http://stats.nba.com/scripts/vendor.min.js:8:4042
+http://stats.nba.com/scripts/vendor.min.js:8:5048
+$eval@http://stats.nba.com/scripts/vendor.min.js:8:10963
+$digest@http://stats.nba.com/scripts/vendor.min.js:8:9512
+$apply@http://stats.nba.com/scripts/vendor.min.js:8:11300
+r@http://stats.nba.com/scripts/vendor.min.js:7:22854
+z@http://stats.nba.com/scripts/vendor.min.js:7:24896
+onreadystatechange@http://stats.nba.com/scripts/vendor.min.js:7:25487
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-10T23:43:26.237Z] Session [944ad980-d78e-11e6-a68f-6f02672563f2] - page.onError - stack:
+  (anonymous function) (http://stats.nba.com/scripts/vendor.min.js:8)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-10T23:43:26.238Z] Session [944ad980-d78e-11e6-a68f-6f02672563f2] - page.onError - msg: Error: undefined is not an object (evaluating 'response.sets.CommonAllPlayers')
+http://stats.nba.com/scripts/custom.min.js:7:15615
+k@http://stats.nba.com/scripts/vendor.min.js:8:3679
+http://stats.nba.com/scripts/vendor.min.js:8:4645
+$eval@http://stats.nba.com/scripts/vendor.min.js:8:10963
+$digest@http://stats.nba.com/scripts/vendor.min.js:8:9512
+$apply@http://stats.nba.com/scripts/vendor.min.js:8:11300
+r@http://stats.nba.com/scripts/vendor.min.js:7:22854
+z@http://stats.nba.com/scripts/vendor.min.js:7:24896
+onreadystatechange@http://stats.nba.com/scripts/vendor.min.js:7:25487
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-10T23:43:26.238Z] Session [944ad980-d78e-11e6-a68f-6f02672563f2] - page.onError - stack:
+  (anonymous function) (http://stats.nba.com/scripts/vendor.min.js:8)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-10T23:43:28.195Z] Session [944ad980-d78e-11e6-a68f-6f02672563f2] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'msg.data.indexOf("{")')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-10T23:43:28.195Z] Session [944ad980-d78e-11e6-a68f-6f02672563f2] - page.onError - stack:
+  parseMessage (http://i.cdn.turner.com/ads/adfuel/ais/nba2-ais.js:1762)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-01-10T23:43:28.882Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1484091808855
+
+  phantomjs://platform/console++.js:263 in error
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read EIO
+    at exports._errnoException (util.js:870:11)
+    at TTY.onread (net.js:544:26)
