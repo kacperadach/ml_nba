@@ -3,19 +3,34 @@ import pickle
 from bs4 import BeautifulSoup as BS
 from selenium import webdriver
 
-NBA_DEFENSIVE_STATS_URL = 'http://stats.nba.com/league/team/defense/#!/'
-NBA_PLAYER_STATS_URL = 'http://stats.nba.com/league/player/#!/'
-PLAYER_PAGES = 9
+from IPython.core.debugger import Tracer
+
+BASE_URL = 'http://stats.nba.com/search/team-game'
+
+stat_table_label = 'nba-stat-table'
+
+# NBA_DEFENSIVE_STATS_URL = 'http://stats.nba.com/league/team/defense/#!/'
+# NBA_PLAYER_STATS_URL = 'http://stats.nba.com/league/player/#!/'
+# PLAYER_PAGES = 9
+
+# def build_nba_stats_url():
 
 
+def read_game_logs():
+    page_source = get_page_source(BASE_URL)
+    soup = BS(page_source, 'html.parser')
+    rows = soup.findChildren('table')[0].findChildren(['th', 'tr'])
+    Tracer()()
 
 
+def press_run_button():
 
 
 
 def get_page_source(url):
     driver = webdriver.PhantomJS()
     driver.get(url)
+    driver.save_screenshot('out.png')
     return driver.page_source
 
 def get_page_rows(soup):
@@ -76,6 +91,4 @@ def get_player_stats():
 
 
 if __name__ == "__main__":
-    defenses = get_player_stats()
-    for d in defenses:
-        print d
+    read_game_logs()
