@@ -1,6 +1,7 @@
 import os
 import pickle
 from datetime import date, timedelta
+import math
 
 from bs4 import BeautifulSoup as BS
 from IPython.core.debugger import Tracer
@@ -42,18 +43,11 @@ def get_table_rows(driver):
 	return rows
 	
 def open_all_logs(driver):
-	opened = False
-	while not opened:
-		try:
-			press_pagination_button(driver)
-			opened = True
-		except:
-			pass
-	while opened:
-		try:
-			press_pagination_button(driver)
-		except:
-			break
+	results_str = driver.find_element_by_css_selector('.querytool-pagination__text').text
+	results = int(results_str.split()[3])
+	pagination_clicks = math.ceil(float(int(results) - 50) / 50)
+	for _ in range(pagination_clicks):
+		press_pagination_button(driver)
 
 def press_pagination_button(driver):
 	pagination_button = driver.find_element_by_css_selector(pagination_button_label)
@@ -109,6 +103,7 @@ if __name__ == "__main__":
 	while first.year < 2017:
 		season = create_year_str(first, second)
 		print 'Season {}'.format(season)
+		#read_game_logs('2016-17')
 		read_game_logs(season)
 		first = first + timedelta(366)
 		second = second + timedelta(366)
