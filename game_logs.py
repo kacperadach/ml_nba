@@ -1,4 +1,3 @@
-import os
 import pickle
 from datetime import date, timedelta
 import math
@@ -14,7 +13,6 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 
 CHROMEDRIVER = '/home/kacper/apps/chromedriver/chromedriver'
-os.environ["webdriver.chrome.driver"] = CHROMEDRIVER
 
 BASE_URL = 'http://stats.nba.com/search/player-game'
 
@@ -34,19 +32,22 @@ def read_game_logs(season):
     press_run_button(driver)
     open_all_logs(driver)
     rows = get_table_rows(driver)
-    pickle.dump(rows, open('{}.p', 'wb'))
+    if rows and len(rows) > 1:
+    	pickle.dump(rows, open('{}.p'.format(season), 'wb'))
 
 def get_table_rows(driver):
 	table = driver.find_element_by_css_selector(stat_table_label)
 	rows = table.find_elements_by_tag_name('tr')
 	rows = filter(lambda x: x.text != '', rows)
+	Tracer()()
 	return rows
 	
 def open_all_logs(driver):
 	results_str = driver.find_element_by_css_selector('.querytool-pagination__text').text
 	results = int(results_str.split()[3])
-	pagination_clicks = math.ceil(float(int(results) - 50) / 50)
-	for _ in range(pagination_clicks):
+	pagination_clicks = int(math.ceil(float(int(results) - 50) / 50))
+	for x in range(pagination_clicks):
+		print "Pagination Click: {} of {}".format(x+1, pagination_clicks)
 		press_pagination_button(driver)
 
 def press_pagination_button(driver):
@@ -75,7 +76,8 @@ def wait_for_load(driver, delay=15):
 		WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.CSS_SELECTOR, stat_table_label)))
 		print 'Data Table Loaded'
 	except TimeoutException:
-	    print '{} second timeout'.format(delay)
+		print '{} second timeout'.format(delay)
+		raise TimeoutException
 
 def press_run_button(driver):
 	run_button = driver.find_element_by_css_selector(run_button_label)
@@ -86,10 +88,10 @@ def take_screenshot(driver):
 	driver.save_screenshot('out.png')
 
 def get_page_driver(url):
-	#driver = webdriver.PhantomJS()
-    driver = webdriver.Chrome(CHROMEDRIVER)
-    driver.get(url)
-    return driver
+	driver = webdriver.Chrome()
+	#driver = webdriver.Chrome()
+	driver.get(url)
+	return driver
 
 def create_year_str(first, second):
 	return '{}-{}'.format(first.year, str(second.year)[-2:])
@@ -98,16 +100,15 @@ if __name__ == "__main__":
 
 	#1984-85 - 2016-17
 
-	first = date(year=1984, month=1, day=1)
-	second = date(year=1985, month=1, day=1)
+	first = date(year=1985, month=1, day=1)
+	second = date(year=1986, month=1, day=1)
 	while first.year < 2017:
 		season = create_year_str(first, second)
 		print 'Season {}'.format(season)
 		#read_game_logs('2016-17')
-		read_game_logs(season)
+		try:
+			read_game_logs(season)
+		except TimeoutException:
+			pass
 		first = first + timedelta(366)
 		second = second + timedelta(366)
-
-
-
-   
